@@ -1,0 +1,97 @@
+<h1>Intermediate Perl</h1>
+<p><strong>Course Description</strong></p>
+<p>This course takes people who use Perl a little and turns them into Perl programmers. Building on the foundations of our Introduction to Perl course it will take your Perl programming ability to the next level. This course will enable you to use Perl to tackle just about any problem.</p>
+<p>The course can be run over one day in lecture style or over two days including practical exercises.</p>
+<p><strong>Intended Audience</strong></p>
+<p>This course will be useful to anyone who has used Perl occasionally, but who now wants to improve their knowledge of Perl in order to become a competent Perl programmer. In order to get the most out of this course, you should be comfortable writing simple Perl programs using loops, subroutines and CPAN modules. Our Introduction to Perl course provides an ideal background for this course, but we recommend a couple of months of using the skills learned from that course before attending this one.</p>
+<p><strong>Key Skills</strong></p>
+<p>After attending this course you will be able to:</p>
+<ul>
+<li>Write more complex Perl programs</li>
+<li>Make use of references in your Perl programs</li>
+<li>Reuse your Perl code in modules and classes</li>
+<li>Test your Perl code</li>
+<li>Interact with databases from Perl programs</li>
+</ul>
+<p><strong>Course Outline</strong></p>
+<ol>
+<li>Types of Variable</li>
+<ol>
+<li>Lexical and package variables</li>
+<li>Packages</li>
+<li>&#8220;local&#8221; variables</li>
+</ol>
+<li>Strict and Warnings</li>
+<ul>
+<li>The coding safety net</li>
+<li>use strict</li>
+<li>use warnings</li>
+</ul>
+<li>References</li>
+<ul>
+<li>What is a reference?</li>
+<li>Creating references</li>
+<li>Using references</li>
+<li>Parameter passing</li>
+<li>Complex data structures</li>
+</ul>
+<li>Sorting</li>
+<ul>
+<li>The sort function</li>
+<li>Sorting blocks and subroutines</li>
+<li>More rfficient sorts</li>
+</ul>
+<li>Reusable Code</li>
+<ul>
+<li>Why write modules?</li>
+<li>A basic module</li>
+<li>How modules work</li>
+<li>Exporter.pm</li>
+</ul>
+<li>Object Orientation</li>
+<ul>
+<li>What is object orientation?</li>
+<li>A simple object in Perl</li>
+<li>A brief introduction to Moose</li>
+</ul>
+<li>Testing</li>
+<ul>
+<li>Why test code?</li>
+<li>Testing in Perl</li>
+<li>Perl&#8217;s standard testing framework</li>
+<li>The Test Anything Protocol</li>
+<li>Other testing modules</li>
+</ul>
+<li>Dates and Times</li>
+<ul>
+<li>Perl&#8217;s built-in date and time handling</li>
+<li>Date and time modules on CPAN</li>
+<li>Using DateTime.pm and friends</li>
+</ul>
+<li>Templates</li>
+<ul>
+<li>Why use templates?</li>
+<li>DIY templating</li>
+<li>Templating on CPAN</li>
+<li>The Template Toolkit</li>
+<li>The template equation</li>
+<li>Simple example</li>
+</ul>
+<li>Databases</li>
+<ul>
+<li>Why use databases?</li>
+<li>Introduction to DBI.pm</li>
+<li>Inserting, selecting, updating and deleting data</li>
+<li>Some efficiency considerations</li>
+<li>Introduction to Object Relational Mapping</li>
+</ul>
+<li>Further Information</li>
+<ul>
+<li>Books</li>
+<li>Web sites</li>
+<li>Mailing lists</li>
+<li>The Perl community</li>
+</ul>
+</ol>
+<p><strong>Course Instructor</strong></p>
+<p>This course will be run by <a href="/our-instructor/">Dave Cross</a>.</p>

@@ -1,0 +1,96 @@
+<h1>Introduction to Perl</h1>
+
+<p><strong>Course Description</strong></p>
+<p>This course is an introduction to programming in Perl. It starts from the absolute basics and introduces enough information for attendees to be writing useful programs by the end of the course.</p>
+<p>The course can be run over one day in lecture style or over two days including practical exercises.</p>
+<p><strong>Intended Audience</strong></p>
+<p>This course will be useful to anyone who want to starts writing programs in Perl. Attendees need no previous knowledge of Perl although it will be useful if they understand a little about programming. Whether you are a sysadmin who wants to use Perl as a glue language, a programmer who wants to use it for data munging or someone who wants to write web applications, this course will give you the basic knowledge you need.</p>
+<p><strong>Key Skills</strong></p>
+<p>After attending this course you will be able to:</p>
+<ul>
+<li>Write simple but useful Perl programs</li>
+<li>Use Perl&#8217;s built-in operators and functions</li>
+<li>Use loops and subroutines to simplify your programs</li>
+<li>Understand simple regular expressions</li>
+<li>Find and install third-party libraries</li>
+</ul>
+<p><strong>Course Outline</strong></p>
+<ol>
+<li>What is Perl</li>
+<ul>
+<li>Perl&#8217;s name</li>
+<li>Typical uses of Perl</li>
+<li>What is Perl like?</li>
+<li>The Perl Philosophy</li>
+</ul>
+<li>Creating and running a Perl program</li>
+<ul>
+<li>Hello World</li>
+<li>Running a Perl program</li>
+<li>Comments</li>
+<li>Command line options</li>
+</ul>
+<li>Variables</li>
+<ul>
+<li>What is a variable?</li>
+<li>Variable names</li>
+<li>Types of Perl variable &#8211; scalars arrays and hashes</li>
+<li>Declaring variables</li>
+<li>Scalars, arrays and hashes in detail</li>
+<li>Perl&#8217;s special variables</li>
+</ul>
+<li>Input and Output</li>
+<ul>
+<li>The print function</li>
+<li>The file input operator</li>
+</ul>
+<li>Operators and Functions</li>
+<ul>
+<li>What are operators and functions?</li>
+<li>Various types of operators</li>
+<li>Some useful functions</li>
+</ul>
+<li>Conditional Constructs</li>
+<ul>
+<li>Introduction to Boolean expressions</li>
+<li>if, elsif and else</li>
+<li>while, until, for and foreach</li>
+</ul>
+<li>Subroutines</li>
+<ul>
+<li>What are subroutines?</li>
+<li>Defining subroutines</li>
+<li>Calling subroutines</li>
+<li>Subroutine arguments</li>
+<li>Subroutine return values</li>
+</ul>
+<li>Regular Expressions</li>
+<ul>
+<li>What are regular expressions?</li>
+<li>The match, substitution and binding operators</li>
+<li>Metacharacters and quantifiers</li>
+</ul>
+<li>Smart Matching</li>
+<ul>
+<li>The smart match operator</li>
+<li>What is smart matching?</li>
+</ul>
+<li>Finding and Using Modules</li>
+<ul>
+<li>What is a module?</li>
+<li>What is CPAN?</li>
+<li>Installing modules</li>
+<li>Using modules</li>
+<li>Some useful modules</li>
+</ul>
+<li>Further information</li>
+<ul>
+<li>Books</li>
+<li>Web sites</li>
+<li>Mailing lists</li>
+<li>The Perl community&nbsp;</li>
+</ul>
+</ol>
+<p><strong>Course Instructor</strong><br />
+This course will be run by <a href="/our-instructor/">Dave Cross</a>.</p>
+

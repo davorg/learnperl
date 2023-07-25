@@ -1,0 +1,16 @@
+<h1>Courses</h1>
+				<p>The following courses are available:</p>
+<ul>
+<li><strong><a href="/courses/introduction-to-perl/">Introduction to Perl</a></strong><br />
+One-day (lecture style) or two-day (with practical sessions) course assuming no previous knowledge of Perl</li>
+<li><strong><a href="/courses/intermediate-perl/">Intermediate Perl</a></strong><br />
+One-day (lecture style) or two-day (with practical sessions) course for people who have done some Perl but who want to really know the language</li>
+<li><strong><a href="/courses/advanced-perl-techniques/">Advanced Perl Techniques</a></strong><br />
+One-day (lecture style) or two-day (with practical sessions) course bringing you up to date with the advanced techniques used by the world&#8217;s foremost Perl programmers</li>
+<li><strong>Web Programming with Perl</strong><br />
+One-day (lecture style) or two-day (with practical sessions) course on  the latest techniques for building dynamic web applications using Perl</li>
+<li><strong>Introduction to Modern Perl</strong><br />
+One day overview of the latest Perl tools</li>
+<li><strong>Modern Core Perl</strong><br />
+Half-day overview of the most recent additions to the core Perl language</li>
+</ul>
