@@ -45,20 +45,33 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
   </head>
   <body class="d-flex flex-column h-100">
     
 <div class="col-lg-8 mx-auto p-3 py-md-5">
-  <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
-    <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-      <span class="fs-4">Learn Perl</span>
-    </a>
-  </header>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">Learn Perl</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/courses/">Courses</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/our-instructor/">Our instructor</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
   <main>
 <h1>Our instructor</h1>
-<p><img class="img-fluid rounded float-end" title="Dave Cross" src="/img/dave.jpg" alt="Dave Cross">
+<p><img class="img-fluid rounded float-end shadow ms-3 mb-3" title="Dave Cross" src="/img/dave.jpg" alt="Dave Cross">
 Dave Cross has been programming professionally since 1988 and using Perl since 1996. In that time he has used Perl as a glue language, for web development and as a general purpose programming language. He is the author of <em>Data Munging with Perl</em> (Manning, 2001) and a co-author of <em>Perl Template Toolkit</em> (O’Reilly, 2003). He has also written articles about Perl for <em>The Perl Journal</em> and <em>Linux Format</em>.</p>
 <p>Dave has run training courses on Perl since 2001. He has run in-house courses for companies ranging from investment banks to dotcoms and he regularly runs public courses in London. He is often invited to give training courses alongside open source conferences like the UKUUG Spring Conference and the London Perl Workshop. He is a regular speaker at both Perl and open source conferences.</p>
 <p>Dave has been heavily involved in the Perl community for many years. In 1998, he founded the London Perl Mongers, the first Perl Users’ Group in Europe and he lead the group for its first four years. He then became the International User Groups Co-ordinator for the Perl Foundation. In 2004 he was awarded a White Camel award for his services to the Perl community. Currently he serves on the Perl Foundation’s marketing committee.</p>

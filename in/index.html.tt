@@ -1,30 +1,32 @@
     <h1>Learn Perl</h1>
-    <p class="fs-5 col-md-8">Quickly and easily get started with Bootstrap's compiled, production-ready files with this barebones example featuring some basic HTML and helpful links. Download all our examples to get started.</p>
-
-    <div class="mb-5">
+    <p class="fs-5 col-md-8">Magnum Solutions have been delivering popular Perl courses since 2000.</p>
+    <p class="fs-5 col-md-8">Why not improve the quality of your Perl code by learning from world-class instructors.</p>
+    <!-- div class="mb-5">
       <a href="/docs/5.0/examples/" class="btn btn-primary btn-lg px-4">Download examples</a>
-    </div>
+    </div -->
 
     <hr class="col-3 col-md-2 mb-5">
 
     <div class="row g-5">
       <div class="col-md-6">
-        <h2>Learn Perl</h2>
-        <p>Ready to beyond the starter template? Check out these open source projects that you can quickly duplicate to a new GitHub repository.</p>
+        <h2>Perl resources</h2>
+        <p>Some good places to get information about Perl.</p>
         <ul class="icon-list">
-          <li><a href="https://github.com/twbs/bootstrap-npm-starter" rel="noopener" target="_blank">Bootstrap npm starter</a></li>
-          <li class="text-muted">Bootstrap Parcel starter (coming soon!)</li>
+          <li><a href="https://perl.org/">Perl home page</a></li>
+          <li><a href="https://perlweekly.com/">Perl Weekly Newsletter</a></li>
+          <li><a href="https://perldoc.perl.org/">Perl documentation</a></li>
+          <li><a href="https://perl.theplanetarium.org/">Planet Perl</a></li>
         </ul>
       </div>
 
       <div class="col-md-6">
-        <h2>Guides</h2>
-        <p>Read more detailed instructions and documentation on using or contributing to Bootstrap.</p>
-        <ul class="icon-list">
+        <h2>Our public courses</h2>
+        <p>Nothing planned currently.</p>
+        <!-- ul class="icon-list">
           <li><a href="/docs/5.0/getting-started/introduction/">Bootstrap quick start guide</a></li>
           <li><a href="/docs/5.0/getting-started/webpack/">Bootstrap Webpack guide</a></li>
           <li><a href="/docs/5.0/getting-started/parcel/">Bootstrap Parcel guide</a></li>
           <li><a href="/docs/5.0/getting-started/build-tools/">Contributing to Bootstrap</a></li>
-        </ul>
+        </ul -->
       </div>
     </div>
