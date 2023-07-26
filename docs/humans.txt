@@ -1,0 +1,14 @@
+/* TEAM */
+	Main human: Dave Cross
+	Contact: dave [at] learnperl.co.uk
+	Twitter: @davorg
+	From: London, UK
+
+/* SITE */
+	Last update: 2023-07-26
+	Language: English
+	Doctype: HTML5
+	CSS: Bootstrap
+	IDE: Visual Studio Code
+	Generator: Aphra
+
