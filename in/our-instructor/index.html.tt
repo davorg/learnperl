@@ -1,3 +1,6 @@
+---
+path: our-instructor
+---
 <h1>Our instructor</h1>
 <p><img class="img-fluid rounded float-end shadow ms-3 mb-3" title="Dave Cross" src="/img/dave.jpg" alt="Dave Cross">
 Dave Cross has been programming professionally since 1988 and using Perl since 1996. In that time he has used Perl as a glue language, for web development and as a general purpose programming language. He is the author of <em>Data Munging with Perl</em> (Manning, 2001) and a co-author of <em>Perl Template Toolkit</em> (O’Reilly, 2003). He has also written articles about Perl for <em>The Perl Journal</em> and <em>Linux Format</em>.</p>

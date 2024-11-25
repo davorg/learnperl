@@ -8,7 +8,7 @@
     <meta name="generator" content="Hugo 0.84.0">
     <title>Learn Perl</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
+    <link rel="canonical" href="https://learnperl.co.uk/[% IF page.path; page.path _ '/'; END %]">
 
     
 
