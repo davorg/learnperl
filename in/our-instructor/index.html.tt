@@ -7,8 +7,10 @@ path: our-instructor
 Dave Cross has been programming professionally since 1988 and using Perl
 since 1996. In that time he has used Perl as a glue language, for web
 development and as a general purpose programming language. He is the author
-of <em>Data Munging with Perl</em> (Manning, 2001) and a co-author of
-<em>Perl Template Toolkit</em> (O’Reilly, 2003). He has also written articles
+of <a href="https://davecross.co.uk/books/#dmp"><em>Data Munging with
+Perl</em></a> (Manning, 2001) and a co-author of
+<a href="https://davecross.co.uk/books/#badger"><em>Perl Template
+Toolkit</em></a> (O’Reilly, 2003). He has also written articles
 about Perl for <em>The Perl Journal</em>, <em>Linux Format</em> and
 <a href="https://www.perl.com/authors/dave-cross/">perl.com</a>.</p>
 
@@ -24,7 +26,7 @@ source conferences.</p>
 the first Perl Users’ Group in Europe and he lead the group for its first
 four years. He then became the International User Groups Co-ordinator for the
 Perl Foundation. In 2004 he was awarded a White Camel award for his services
-to the Perl community. Among other things, he is now the published at
+to the Perl community. Among other things, he is now the publisher at
 <a href="https://perlschool.com/">Perl School</a> and he blogs about Perl
 at <a href="https://perlhacks.com/">Perl Hacks</a>.</p>
 
