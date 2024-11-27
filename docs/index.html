@@ -105,16 +105,57 @@
 
   </main>
   <footer class="footer mt-auto py-3 text-muted border-top">
-<p>
-  <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1930110006/davblog-21">
-    <img title="Data Munging with Perl" src="/img/munging.jpg" alt="Data Munging with Perl" />
-  </a>
-  <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0596004761/davblog-21">
-    <img title="Perl Template Toolkit" src="/img/badger.jpg" alt="Perl Template Toolkit" />
-  </a>
-</p>
+<style>
+.cover {
+  height: 150px;
+/*  float: left; */
+  padding-left: 5px;
+}
+</style>
 
-    Copyright Magnum Solutions Limited &middot; &copy; 2023
+<div id="book-list" class="mb-3"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const url = "https://davecross.co.uk/books/books.json";
+
+  // Fetch the JSON file
+  fetch(url)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(books => {
+      // Filter for non-children tech books
+      const filteredBooks = books.filter(book =>
+        book.tags.includes("tech") && !book.tags.includes("children")
+      );
+
+      // Generate HTML
+      const html = filteredBooks.map(book => `
+        <a href="https://davecross.co.uk/books/#${book.id}">
+          <img class="cover"
+            title="${book.title}" 
+            src="${book.image_url}" 
+            alt="${book.title}" 
+          />
+        </a>
+      `).join("");
+
+      // Insert HTML into the page
+      document.getElementById("book-list").innerHTML = `<p>${html}</p>`;
+    })
+    .catch(error => {
+      console.error("Error fetching the JSON file:", error);
+    });
+});
+
+</script>
+
+    <hr class="mt-3">
+    <p>Copyright Magnum Solutions Limited &middot; &copy; 2023</p>
   </footer>
 </div>
 
