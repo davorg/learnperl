@@ -8,4 +8,4 @@
 
 <div id="book-list" class="mb-3"></div>
 
-<script src="https://cdn.davecross.co.uk/js/books.js"></script>
+<script src="https://cdn.davecross.co.uk/js/books.js" data-tags-include="perl"></script>
